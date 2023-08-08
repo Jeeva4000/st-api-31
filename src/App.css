@@ -64,3 +64,6 @@
 body{
   background-image: linear-gradient(to right, rgb(86, 134, 206),rgb(123, 210, 250),rgb(68, 224, 172));
 }
+.button{
+  background-color: aqua;
+}
