@@ -10,6 +10,7 @@ const DashBoard = () => {
     title = "Welcome To Teachers And Students App"
     >
       <br/>
+     
         <Button 
         variant='outlined'
         color='primary'
@@ -19,6 +20,8 @@ const DashBoard = () => {
         >
         Student Page
         </Button>
+        
+        
         <Button 
         variant='outlined'
         color='primary'
@@ -27,6 +30,7 @@ const DashBoard = () => {
         >
         Teacher Page
         </Button>
+        
      </Base>
   )
 }
