@@ -62,5 +62,6 @@
   font-size: calc(20px + 1vw);
 }
 body{
-  background-image: linear-gradient(to right, rgb(130, 145, 230),rgb(123, 210, 250),rgb(68, 224, 172));
+  background-image: linear-gradient(to right, rgb(199, 202, 219),rgb(138, 202, 231),rgb(96, 214, 175));
 }
+
