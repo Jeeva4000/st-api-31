@@ -41,7 +41,7 @@ const AddTeachers = ({teachersData,setTeachersData}) => {
                     experience
                 }
          
-                const response = await fetch("https://63fde41c19f41bb9f6562d7f.mockapi.io/teacher",{
+                const response = await fetch("https://644bbf924bdbc0cc3a996e03.mockapi.io/teacher",{
                     method:"POST",
                     body:JSON.stringify(newTeacher),
                     headers : {

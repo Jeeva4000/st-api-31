@@ -42,7 +42,7 @@ const AddStudents = ({studentsData,setStudentsData}) => {
                 qualification
             }
      
-            const response = await fetch("https://63fde41c19f41bb9f6562d7f.mockapi.io/student",{
+            const response = await fetch("https://644bbf924bdbc0cc3a996e03.mockapi.io/student",{
                 method:"POST",
                 body:JSON.stringify(newStudent),
                 headers : {
